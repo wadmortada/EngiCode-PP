@@ -4,8 +4,8 @@
   information provided is for educational and reference purposes only. Users should verify information with official
   sources for regulatory compliance.
 
-  **Last updated:** January 6, 2025
-  **Effective date:** January 6, 2025
+  **Last updated:** Aug 6, 2025
+  **Effective date:** Aug 6, 2025
 
   ## 1. About This App
 

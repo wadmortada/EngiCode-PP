@@ -1,15 +1,33 @@
-<!DOCTYPE html>
+ <!DOCTYPE html>
   <html lang="en">
   <head>
       <meta charset="UTF-8">
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
       <title>EngiCode - Privacy Policy</title>
       <style>
-          body { font-family: Arial, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px; line-height: 1.6; }
-          h1, h2 { color: #40b883; }
-          .disclaimer { background: #fff3cd; border: 1px solid #ffeaa7; padding: 15px; border-radius: 5px; margin: 20px 0;     
-   }
-          .contact { background: #f8f9fa; padding: 15px; border-radius: 5px; margin: 20px 0; }
+          body {
+              font-family: Arial, sans-serif;
+              max-width: 800px;
+              margin: 0 auto;
+              padding: 20px;
+              line-height: 1.6;
+          }
+          h1, h2 {
+              color: #40b883;
+          }
+          .disclaimer {
+              background: #fff3cd;
+              border: 1px solid #ffeaa7;
+              padding: 15px;
+              border-radius: 5px;
+              margin: 20px 0;
+          }
+          .contact {
+              background: #f8f9fa;
+              padding: 15px;
+              border-radius: 5px;
+              margin: 20px 0;
+          }
       </style>
   </head>
   <body>
